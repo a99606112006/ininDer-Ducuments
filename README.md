@@ -2,7 +2,7 @@ ininDer is a SPA dating app project following the software development methods f
 
 Now, I plan to use different frameworks to create the same project, the working process/update are showing below: 
 
-ininDer React done
+ininDer React: done
 
 ininDer ASPcore MVC: complete all the components, need to add UI features
 
